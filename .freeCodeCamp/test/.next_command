@@ -236,3 +236,4 @@ help
 help function
 echo ${RESPONSES[$N]}
 ./fortune.sh
+./fortune.sh
