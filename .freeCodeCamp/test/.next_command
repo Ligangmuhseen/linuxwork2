@@ -234,3 +234,4 @@ echo ${RESPONSES[5]}
 ./fortune.sh
 help
 help function
+echo ${RESPONSES[$N]}
