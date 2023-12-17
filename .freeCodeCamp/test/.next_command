@@ -260,3 +260,18 @@ echo $VAR
 touch five.sh
 chmod +x five.sh
 ./five.sh
+./five.sh
+./five.sh
+./five.sh
+./five.sh
+./five.sh
+chmod +x five.sh
+./five.sh
+./five.sh
+./five.sh
+./five.sh
+./fortune.sh
+./fortune.sh
+./fortune.sh
+git init
+git add .
