@@ -142,3 +142,5 @@ help
 help if
 help [[expression]]
 help [[ expression ]]
+help !
+help test
