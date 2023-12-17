@@ -188,3 +188,4 @@ chmod +x countdown.sh
 chmod +x bingo.sh
 ./bingo.sh
 printenv
+echo $LANG
