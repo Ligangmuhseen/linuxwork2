@@ -109,3 +109,4 @@ bash questionnaire.sh
 ./questionnaire.sh
 echo hello bash
 sh ./questionnaire.sh
+./questionnaire.sh
