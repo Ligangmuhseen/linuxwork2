@@ -111,3 +111,4 @@ echo hello bash
 sh ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+echo --help
