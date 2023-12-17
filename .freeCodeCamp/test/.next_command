@@ -239,3 +239,5 @@ echo ${RESPONSES[$N]}
 ./fortune.sh
 help
 help until
+./fortune.sh
+./fortune.sh
