@@ -242,3 +242,4 @@ help until
 ./fortune.sh
 ./fortune.sh
 help [[ expression ]]
+[[ hello == hello ]]
