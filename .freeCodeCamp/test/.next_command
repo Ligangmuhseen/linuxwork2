@@ -166,3 +166,4 @@ help test
 [[ -a bad_file.txt ]]
 [[ -x countdown.sh ]]
 [[ -x countdown.sh ]]
+help [[ expression ]]
