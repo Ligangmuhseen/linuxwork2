@@ -104,3 +104,8 @@ echo Hello$NAME
 echo "Hello $NAME"
 ./questionnaire.sh
 ./questionnaire.sh
+sh questionnaire.sh
+bash questionnaire.sh
+./questionnaire.sh
+echo hello bash
+sh ./questionnaire.sh
