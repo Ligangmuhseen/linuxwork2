@@ -5,13 +5,15 @@
 echo -e "\n~~ Countdown Timer ~~\n"
 
 
-: '
-for (( i = $1; i >= 0; i-- ))
+I=$1
+
+while [[ $I -ge 0 ]]
 do
-  echo $i
+  echo $I
+  (( I-- ))
   sleep 1
 done
-'
+
 
 
 
